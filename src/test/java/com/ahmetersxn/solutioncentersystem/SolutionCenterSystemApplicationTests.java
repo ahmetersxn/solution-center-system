@@ -1,3 +1,4 @@
+/*
 package com.ahmetersxn.solutioncentersystem;
 
 import org.junit.Test;
@@ -14,3 +15,5 @@ public class SolutionCenterSystemApplicationTests {
 	}
 
 }
+
+ */
