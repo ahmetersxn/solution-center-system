@@ -11,5 +11,5 @@ deploy:
   api_key:
     secure: $HEROKU_API_KEY
   on:
-    branch: production
+    branch: master
     app: solutioncentersystem
