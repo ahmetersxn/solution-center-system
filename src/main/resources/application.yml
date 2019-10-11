@@ -17,10 +17,6 @@ spring:
         format_sql: true
         id:
           new_generator_mappings: false
-  h2:
-    console:
-      settings:
-        web-allow-others = true
 server:
    port: 8089 # This is the default port anyway, but you can change it here
 

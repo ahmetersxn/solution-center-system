@@ -17,6 +17,7 @@ import org.springframework.web.context.request.RequestAttributes;
 @RestControllerAdvice
 public class GlobalExceptionHandlerController {
 
+
   @Bean
   public ErrorAttributes errorAttributes() {
     // Hide exception field in the return object
